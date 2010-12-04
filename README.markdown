@@ -4,8 +4,8 @@ Shortcuts
 folding
 -------
 
-+ **za** >>	toogle folding
-+ **zM** >> fold everything
-+ **zR** >> unfold everything
++ **za**	*toogle folding*
++ **zM**	*fold everything*
++ **zR**	*unfold everything*
 
 + :help folding
